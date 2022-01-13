@@ -175,3 +175,7 @@ let american = new American('USA', 'female', 'English');
 console.log(american);
 
 american.greetings();
+
+data : {
+    userEmail: ''
+}
