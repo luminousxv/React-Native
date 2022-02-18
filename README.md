@@ -1,2 +1,2 @@
 # React-Native
-## 인프런 강좌 정리
+React-Native 비기너~인터 강의 정리 및 실습 Repository
